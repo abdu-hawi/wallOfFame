@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3226aeb1-1033-4c1c-9b9b-f9282e2c06dc" name="WallOfFameRemotlyPHP" url="http://a056056.xyz">
+        <fileTransfer rootFolder="/domains/a056056.xyz" host="a056056.xyz" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

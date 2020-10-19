@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="170" height="60" viewBox="0 0 170 60">
+  <g id="Group_69" data-name="Group 69" transform="translate(-292 -536)">
+    <g id="Rectangle_5" data-name="Rectangle 5" transform="translate(292 536)" fill="none" stroke="#000" stroke-width="1">
+      <rect width="170" height="60" rx="8" stroke="none"/>
+      <rect x="0.5" y="0.5" width="169" height="59" rx="7.5" fill="none"/>
+    </g>
+    <g id="Group_2" data-name="Group 2" transform="translate(4 1.997)">
+      <text id="Make_amazing_and_cle" data-name="Make amazing and cle" transform="translate(353 570)" font-size="16" font-family="SFProText-Regular, SF Pro Text"><tspan x="0" y="0">App store</tspan></text>
+      <path id="apple" d="M22.748,46.1a5.561,5.561,0,0,1,2.979-5.052,6.4,6.4,0,0,0-5.046-2.657c-2.115-.167-4.426,1.233-5.272,1.233-.894,0-2.943-1.174-4.551-1.174C7.533,38.505,4,41.1,4,46.387a14.848,14.848,0,0,0,.858,4.837c.763,2.186,3.515,7.548,6.386,7.459,1.5-.036,2.562-1.066,4.516-1.066,1.894,0,2.877,1.066,4.551,1.066,2.9-.042,5.385-4.915,6.112-7.107A5.905,5.905,0,0,1,22.748,46.1Zm-3.372-9.782A5.611,5.611,0,0,0,20.806,32a6.317,6.317,0,0,0-4.045,2.079,5.7,5.7,0,0,0-1.525,4.283A5,5,0,0,0,19.376,36.319Z" transform="translate(316 519.003)" fill="#707070"/>
+    </g>
+  </g>
+</svg>
